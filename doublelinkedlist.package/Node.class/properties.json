@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "doublelinkedlist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"prev",
+		"next",
+		"value"
+	],
+	"name" : "Node",
+	"type" : "normal"
+}
